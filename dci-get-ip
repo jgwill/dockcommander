@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Inspect a Container and get its IP
+echo Getting IP for Container ID: $1
+docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' $1

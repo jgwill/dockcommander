@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Inspect a Container
+echo Inspecting Container ID: $1
+docker inspect $1
