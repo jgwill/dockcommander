@@ -5,7 +5,7 @@
 
 alias d=docker
 alias dcl='docker container ps -a'
-alias dcs='docker stats'
+alias dcstats='docker stats'
 
 
 #path

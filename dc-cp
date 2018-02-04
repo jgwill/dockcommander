@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Copy a file from a Container locally
+
+echo Copying file $2 to $3 from Container $1
+docker cp $1:$2 $3

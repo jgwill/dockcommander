@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# execute a bash on a running instance
+docker exec -it $1 bash

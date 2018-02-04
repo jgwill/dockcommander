@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+# Start a Container
+
+echo Starting Container $1
+docker start $1
