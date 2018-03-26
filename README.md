@@ -1,6 +1,8 @@
 # dockcommander
 Base command line to manage docker and help me remember what does what....
 
+The goal is to Master Docker implementation :)
+
 
 # Install
 
