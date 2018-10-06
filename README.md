@@ -8,13 +8,10 @@ The goal is to Master Docker implementation :)
 
 ## Clone 
 cd  
-
 mkdir infra 
-
 cd infra 
 
 git clone https://github.com/jgwill/dockcommander.git 
-
 cd 
 
 ## Add to Terminal Command (note adapt path if you changed it)
