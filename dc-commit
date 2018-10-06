@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Commit a Container to an image
 
 echo Committing $1 to $2
