@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# install b run a MySql 
 
 
 
